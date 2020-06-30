@@ -7,7 +7,7 @@ site_author: RealSoSy
 repo_url: "https://github.com/wootaik/MyTest_Rtd"
 edit_on_github: true
 github_docs_folder: true
-sticky_navigation: true
+sticky_navigation: false
 prev_next_buttons_location: bottom
 search_enabled: true
 hljs_style: github-gist
